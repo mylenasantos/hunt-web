@@ -1,2 +1,2 @@
-ReactJS 
+consuming API with ReactJS 
 
